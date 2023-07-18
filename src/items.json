@@ -1,0 +1,18 @@
+[
+    {
+      "title": "Item 1",
+      "unit": "1 kg",
+      "ingredients": {
+        "ingredient1": 100,
+        "ingredient2": 50
+      }
+    },
+    {
+      "title": "Item 2",
+      "unit": "10 kg",
+      "ingredients": {
+        "ingredient3": 1,
+        "ingredient4": 80
+      }
+    }
+  ]
